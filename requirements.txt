@@ -1,0 +1,6 @@
+numpy>=1.14.0
+torch==1.4.0
+gym[atari]==0.17.2
+tensorboardX==1.8
+pyyaml==3.12
+gitpython==3.0.8
